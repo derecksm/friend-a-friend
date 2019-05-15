@@ -1,0 +1,25 @@
+{
+  "name": "friend-a-friend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.19.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derecksm/friend-a-friend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/derecksm/friend-a-friend/issues"
+  },
+  "homepage": "https://github.com/derecksm/friend-a-friend#readme"
+}
